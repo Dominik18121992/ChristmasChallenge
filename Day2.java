@@ -16,7 +16,6 @@ public class Day2 {
     public  static void main (String [] args)
     {
 
-        //List<String> gifts = Arrays.asList("Perfume","Socks","Cup","Sweater","Hat","Tea","Coffe","Clock","Bag","Book","Wallet","Cream","Earnings");
         String bagGifts [] = {"Perfume","Socks","Cup","Sweater","Hat","Tea","Coffe","Clock","Bag","Book","Wallet","Cream","Earnings"};
 
         for (int i=1; i <= 3; i++)
